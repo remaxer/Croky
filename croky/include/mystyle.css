@@ -1,0 +1,173 @@
+a.hover,a,a.visited{
+text-decoration:none;
+color:red;
+}
+ 
+div{
+text-align:center;
+margin:0 auto;
+font-size:12px;
+}
+
+.center{
+text-align:center;
+
+}
+
+body{
+background-color:black;;
+color:white;
+}
+ 
+.logo_link{
+text-align:center;
+width:350px;
+height:300px;
+
+}
+
+.posts_content{
+background-color:black;;
+width:100%;
+padding:10px;
+}
+
+.content_normals{
+background-color:black;
+width:100%;
+padding:10px;
+
+}
+
+.post_table{
+background-color:black;
+width:90%;
+font-size:12px;
+}
+
+
+.comment_text{
+background-color:black;
+width:80%;
+font-size:10px;
+margin:0 auto;
+border:1px solid white;
+}
+
+.one_comment{
+background-color:black;
+width:80%;
+font-size:12px;
+margin:0 auto;
+border:2pt solid lightblue;
+}
+
+.logo_table{
+background:url('../images/croky.png') center no-repeat ;
+width:600px;
+height:200px;
+margin:0 auto;
+}
+
+.princ{
+background:black;
+width:95%;
+border:1px solid white;
+margin: 0 auto;
+padding-left:3%;
+padding-right:5%;
+}
+
+.span-edit{
+background:black;
+border:1px solid white;
+font-size:15px;
+color:green;
+}
+
+.span-posttitle{
+font-size:20px;
+
+}
+
+.span-submitted{
+font-size:12px;
+
+}
+.span-category{
+font-size:12px;
+
+}
+
+.span-tags{
+font-size:12px;
+
+}
+
+
+.princ2{
+width:30%;
+margin: 0;
+padding:50px;
+float:left;
+
+}
+
+
+.princ3{
+width:100%;
+margin: 0 auto;
+padding:10px;
+}
+
+.post-tablef{
+width:100%;
+border:1px solid white;
+margin:0 auto;
+}
+
+.post-textf{
+width:90%;
+border:1px solid white;
+padding:5px;
+margin:0 auto;
+font-size:12px;
+}
+
+.normal_content{
+background-color:black;
+color:white;
+font-size:10pt;
+border:1px solid white;
+margin-top:15px;
+margin: 0 auto;
+text-align:center;
+width:90%;
+}
+
+.register_content{
+background-color:black;
+color:white;
+font-size:10pt;
+border:1px solid white;
+margin: 0 auto;
+
+}
+.error{
+background-color:black;
+font-size:10pt;
+margin: 0 auto;
+
+}
+.footer{
+background-color:black;
+font-size:8pt;
+margin: 0 auto;
+border:1px solid white;
+text-align:center;
+}
+.changepassword{
+font-size:8pt;
+margin: 0 auto;
+text-align:center;
+}

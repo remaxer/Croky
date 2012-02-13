@@ -1,0 +1,37 @@
+------  ------  ------  ----- ------    
+|    |  |    |  |    | |   /  \   /
+| |- -  ------  |    | |  /    \ /
+| |     |  \    |    | |  \    | |
+| |- -  |   \   |    | |   \   | |
+|    |  |    \  |    | |    \  | |
+------  ------  ------ ------ ------
+
+
+
+
+-------------
+Installazione
+-------------
+
+-Per installare croky ci sono dei semplici passi da effettuare:
+1-aprire la cartella croky dall'archivio appena scaricato
+2-aprire il file include/conf.php e modificare le impostazioni come meglio si desidera 
+Ora la parte più divertente:
+3-copiare il [contenuto] della cartella croky nella vostra root del server web , (o in qualunque altra cartella vogliate)
+4-Andare al percorso [percorso dove avete messo il contenuto di croky]/install
+5-Controllate che tutto sia a posto e cliccate su install
+6-Una volta finito la cosa più importante è cancellare la cartella install all'interno della cartella croky con tutto il suo contenuto...
+
+Godetevi lo spettacolo!!!
+
+Enjoy Your self!!!
+
+
+---------------
+Raccomandazioni
+---------------
+
+-Cambiate Username e Password di Default per non essere ownati dal file include/conf.php
+-Scegliete Password difficili;per aumentare la sicurezza anche l'username(Se volete)
+-Divertitevi più che potete
+
